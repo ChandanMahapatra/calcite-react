@@ -26,7 +26,6 @@ const StyledTopNav = styled.header`
 const StyledTopNavActions = styled.div`
   display: flex;
   align-items: center;
-  margin-left: auto;
   padding: 0 ${props => props.theme.baseline};
 
   > a,
